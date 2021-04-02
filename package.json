@@ -11,10 +11,13 @@
     "url": "git+https://github.com/JinLingShiSiChai/etc-book.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "JinLingShiSiChai",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/JinLingShiSiChai/etc-book/issues"
   },
-  "homepage": "https://github.com/JinLingShiSiChai/etc-book#readme"
+  "homepage": "https://github.com/JinLingShiSiChai/etc-book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
 }
